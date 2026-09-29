@@ -57,7 +57,7 @@ I'm an Artificial Intelligence & Machine Learning Engineering student from Chenn
 *   ⚔️ **Codeforces:** Active participant in rated algorithmic contests.
 
 <div align="left">
-  <img src="https://leetcard.jacoblin.cool/AthulKrishnaAV47?theme=dark&font=syne" alt="LeetCode Stats" />
+  <img src="https://leetcard.jacoblin.cool/Athul__47?theme=dark&font=syne" alt="LeetCode Stats" />
 </div>
 <br>
 🔗 [My LeetCode Profile](https://leetcode.com/u/Athul__47) 
