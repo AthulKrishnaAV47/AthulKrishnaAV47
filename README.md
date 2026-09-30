@@ -37,11 +37,6 @@ I'm an Artificial Intelligence & Machine Learning Engineering student from Chenn
 ---
 
 ## 💼 Projects
-
-🎓 **Autonomous Academic Planner** — [GitHub](https://github.com/AthulKrishnaAV47/College-TimeTable-Generator.git)
-*   A client-side web utility utilizing a custom constraint satisfaction solver for dynamic timetable generation.
-*   **Tech Stack:** TypeScript, Next.js, pdfjs-dist
-
 🧠 **Deep Learning from Scratch** — [GitHub](https://github.com/AthulKrishnaAV47/Neural-Network-from-scratch.git)
 *   Implemented fully connected feedforward Neural Networks and Transformer architectures from the ground up using raw math—no heavy ML frameworks.
 *   **Tech Stack:** Python, NumPy
@@ -49,6 +44,11 @@ I'm an Artificial Intelligence & Machine Learning Engineering student from Chenn
 ⏩ **NPTEL Next-Video Fast-Forward** — [GitHub](https://github.com/AthulKrishnaAV47/NPTEL-Next_Button-Extension.git)
 *   A custom browser extension built to automate and enhance video navigation on the NPTEL platform.
 *   **Tech Stack:** JavaScript, HTML, CSS
+
+  
+🎓 **Autonomous Academic Planner** — [GitHub](https://github.com/AthulKrishnaAV47/College-TimeTable-Generator.git)
+*   A client-side web utility utilizing a custom constraint satisfaction solver for dynamic timetable generation.
+*   **Tech Stack:** TypeScript, Next.js, pdfjs-dist
 
 
 ## 📊 LeetCode & Competitive Programming
