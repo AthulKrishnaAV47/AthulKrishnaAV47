@@ -32,13 +32,13 @@ AI & ML Engineering undergraduate in Chennai, India. I like understanding how ML
 
 ---
 
-## Competitive programming
+## Coding Profile
 
-- LeetCode: [Athul__47](https://leetcode.com/u/Athul__47) (365-day streak badge)
+- LeetCode: [Athul__47](https://leetcode.com/u/Athul__47) 
 
 ---
 
 ## Contact
 
-[LinkedIn](https://www.linkedin.com/in/athul-krishna-av) · Email: <a href="athulkrishnaav171@gmail.com
+[LinkedIn](https://www.linkedin.com/in/athul-krishna-av) · <a href="mailto:athulkrishav171@gmail.com?subject=Help%20Request&body=I%20need%20assistance.">Email</a>   
 Open to ML / AI engineering internships.
