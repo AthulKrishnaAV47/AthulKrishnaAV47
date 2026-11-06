@@ -3,7 +3,6 @@
 AI & ML Engineering undergraduate in Chennai, India. I like understanding how ML systems work underneath the frameworks, and then making them measurably better.
 
 **Currently working on**
-- Implementing backpropagation by hand in NumPy and verifying gradients against PyTorch autograd
 - Porting a small neural network inference path to C++ and benchmarking it against PyTorch
 - Competitive programming: data structures, dynamic programming, graphs
 
